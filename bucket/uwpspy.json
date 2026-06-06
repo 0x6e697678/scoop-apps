@@ -1,16 +1,21 @@
 {
-  "version": "1.5.3",
-  "description": "Inspect and explore UWP (Universal Windows Platform) app UI trees.",
-  "homepage": "https://github.com/m417z/UWPSpy",
-  "license": "MIT",
-  "url": "https://github.com/m417z/UWPSpy/releases/download/v1.5.3/UWPSpy.zip",
-  "hash": "a5d04264af83f6432a9d1278d7e3cf3cef1f15fa91056c03e4763905853f34ac",
-  "bin": "UWPSpy.exe",
-  "shortcuts": [["UWPSpy.exe", "UWPSpy"]],
-  "checkver": {
-    "github": "https://github.com/m417z/UWPSpy"
-  },
-  "autoupdate": {
-    "url": "https://github.com/m417z/UWPSpy/releases/download/v$version/UWPSpy.zip"
-  }
+    "version": "1.5.4",
+    "description": "Inspect and explore UWP (Universal Windows Platform) app UI trees.",
+    "homepage": "https://github.com/m417z/UWPSpy",
+    "license": "MIT",
+    "url": "https://github.com/m417z/UWPSpy/releases/download/v1.5.4/UWPSpy.zip",
+    "hash": "486df873e865c320112774267d52fe0d6befe1e857680bf4336fbbd8f8f39826",
+    "bin": "UWPSpy.exe",
+    "shortcuts": [
+        [
+            "UWPSpy.exe",
+            "UWPSpy"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/m417z/UWPSpy"
+    },
+    "autoupdate": {
+        "url": "https://github.com/m417z/UWPSpy/releases/download/v$version/UWPSpy.zip"
+    }
 }
